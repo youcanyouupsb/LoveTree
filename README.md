@@ -1,15 +1,10 @@
 ## 爱情树
-
-> <b>修改config.js的配置就可以做一个属于自己的爱情树了,喜欢的话fork or star一下呗~</b>
-
-<img src="https://github.com/AJLoveChina/loveBalloon/blob/master/static/github-star.png" />
-
 ### config.js 说明
 ```text
 var config = {
     // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
-        "亲爱的雯雯",
+        "亲爱的",
         "花开一季，有落红为证",
         "逝去的岁月，如何能托于烟尘",
         "你的浅笑，是我永生眷恋",
